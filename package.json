@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "Anil Nayak<anil.k.nayak8@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.17.1",
     "mkdirp": "^0.5.1"
